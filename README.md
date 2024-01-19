@@ -1,5 +1,5 @@
 # Anish Indukur Portfolio
-A look through the interesting projects I've gotten to work on through my educational and work experiences. 
+Thanks for visiting my portfolio! Here's a look through the interesting projects I've gotten to work on through my educational and professional experiences. 
 
 ## [COVID-19 Chest X-Ray Image Classification](Portfolio/COVID_19_PROJECT/)
 I trained a convolutional neural network on a dataset of chest X-ray scans. The goal was to create a classifier that would reliably recognize scans that came from a COVID-19 patient over scans from a patient with viral pneumonia and normal scans. The final model reached an accuracy of 87.8%, precision of 88.5%, recall of 87.8%. The model was able to recognize all the COVID scans and only confused one pneumonia scan with COVID.    
